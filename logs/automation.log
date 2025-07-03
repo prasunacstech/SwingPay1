@@ -1,0 +1,4 @@
+14:52:46.192 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:20)oggger -  ** Clicked on login Link **
+14:52:46.431 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:26)oggger -  ** Provide all the details **
+14:52:48.583 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:33)oggger -  ** Validating expected result **
+14:52:48.683 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:38)oggger -  ************* Completed TC002_LoginTest ************ 

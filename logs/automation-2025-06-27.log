@@ -1,0 +1,33 @@
+17:10:26.732 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:16)oggger -  ************* Starting TC002_LOGINTest ************ 
+17:10:26.805 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:20)oggger -  ** Clicked on login Link **
+17:10:28.606 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:26)oggger -  ** Provide all the details **
+17:10:35.740 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:33)oggger -  ** Validating expected result **
+17:10:35.837 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:38)oggger -  ************* Completed TC002_LoginTest ************ 
+17:17:22.513 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:15)oggger -  ************* Starting TC001_AccountRegistrationTest ************ 
+17:17:23.020 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:18)oggger -  ** Clicked on Register Link **
+17:17:26.242 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:23)oggger -  ** Provide all the details **
+17:17:43.664 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:38)oggger -  ** Validating expected result **
+17:18:11.551 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:16)oggger -  ************* Starting TC002_LOGINTest ************ 
+17:18:11.552 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:20)oggger -  ** Clicked on login Link **
+17:18:11.770 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:26)oggger -  ** Provide all the details **
+17:18:13.668 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:33)oggger -  ** Validating expected result **
+17:18:13.799 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:38)oggger -  ************* Completed TC002_LoginTest ************ 
+17:21:15.886 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:15)oggger -  ************* Starting TC001_AccountRegistrationTest ************ 
+17:21:15.953 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:18)oggger -  ** Clicked on Register Link **
+17:21:16.502 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:23)oggger -  ** Provide all the details **
+17:21:35.400 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:38)oggger -  ** Validating expected result **
+17:21:43.487 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:43)oggger -  ************* Completed TC001_AccountRegistrationTest ************ 
+17:22:15.333 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:16)oggger -  ************* Starting TC002_LOGINTest ************ 
+17:22:15.334 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:20)oggger -  ** Clicked on login Link **
+17:22:15.661 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:26)oggger -  ** Provide all the details **
+17:22:20.290 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:33)oggger -  ** Validating expected result **
+17:22:20.510 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:38)oggger -  ************* Completed TC002_LoginTest ************ 
+17:26:55.547 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:15)oggger -  ************* Starting TC001_AccountRegistrationTest ************ 
+17:26:55.623 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:18)oggger -  ** Clicked on Register Link **
+17:26:55.884 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:23)oggger -  ** Provide all the details **
+17:27:02.595 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:38)oggger -  ** Validating expected result **
+17:27:19.998 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:16)oggger -  ************* Starting TC002_LOGINTest ************ 
+17:27:19.999 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:20)oggger -  ** Clicked on login Link **
+17:27:20.344 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:26)oggger -  ** Provide all the details **
+17:27:22.495 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:33)oggger -  ** Validating expected result **
+17:27:22.536 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:38)oggger -  ************* Completed TC002_LoginTest ************ 
