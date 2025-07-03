@@ -32,7 +32,7 @@ public class BaseClass {
 	
 	@BeforeClass(groups = { "Sanity", "Regression", "Master"})
 	@Parameters({ "os", "browser" })
-	public void setUP(@Optional("windows")String os, @Optional("chrome")String br) {
+	public void setUP(String os, String br) {
 
 		// Loading config.properties file
 

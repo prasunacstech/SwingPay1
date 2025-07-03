@@ -23,7 +23,10 @@
 						<suiteXmlFiles>
 							<suiteXmlFile>src/test/resources/master.xml</suiteXmlFile>
 						</suiteXmlFiles>
-						
+						<systemPropertyVariables>
+							<browser>chrome</browser>
+							<os>windows</os>
+						</systemPropertyVariables>
 					</configuration>
 				</plugin>
 			</plugins>
