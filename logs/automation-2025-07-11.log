@@ -1,0 +1,31 @@
+19:14:57.447 [TestNG-test-ChromeTest-2] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:26)oggger -  ** Provide all the details **
+19:15:30.131 [TestNG-test-FirefoxTest-2] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:16)oggger -  ************* Starting TC002_LOGINTest ************ 
+19:15:30.132 [TestNG-test-FirefoxTest-2] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:20)oggger -  ** Clicked on login Link **
+19:15:30.275 [TestNG-test-FirefoxTest-2] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:26)oggger -  ** Provide all the details **
+19:15:33.671 [TestNG-test-FirefoxTest-2] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:33)oggger -  ** Validating expected result **
+19:15:33.973 [TestNG-test-FirefoxTest-2] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:38)oggger -  ************* Completed TC002_LoginTest ************ 
+19:16:11.325 [TestNG-test-EdgeTest-1] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:15)oggger -  ************* Starting TC001_AccountRegistrationTest ************ 
+19:16:11.326 [TestNG-test-EdgeTest-1] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:18)oggger -  ** Clicked on Register Link **
+19:16:11.330 [TestNG-test-EdgeTest-2] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:16)oggger -  ************* Starting TC002_LOGINTest ************ 
+19:16:11.332 [TestNG-test-EdgeTest-2] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:20)oggger -  ** Clicked on login Link **
+19:16:19.251 [TestNG-test-EdgeTest-1] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:23)oggger -  ** Provide all the details **
+19:16:19.384 [TestNG-test-EdgeTest-2] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:26)oggger -  ** Provide all the details **
+19:17:54.943 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\ckuma\javarepos\Swingpay1\src\test\resources\crossbrowsertesting.xml"
+19:18:04.217 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:15)oggger -  ************* Starting TC001_AccountRegistrationTest ************ 
+19:18:04.243 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:18)oggger -  ** Clicked on Register Link **
+19:18:04.410 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:23)oggger -  ** Provide all the details **
+19:18:21.341 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:38)oggger -  ** Validating expected result **
+19:18:21.377 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:43)oggger -  ************* Completed TC001_AccountRegistrationTest ************ 
+19:18:31.361 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:16)oggger -  ************* Starting TC002_LOGINTest ************ 
+19:18:31.362 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:20)oggger -  ** Clicked on login Link **
+19:18:31.574 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:26)oggger -  ** Provide all the details **
+19:18:32.846 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:33)oggger -  ** Validating expected result **
+19:18:34.106 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:38)oggger -  ************* Completed TC002_LoginTest ************ 
+19:18:45.726 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:15)oggger -  ************* Starting TC001_AccountRegistrationTest ************ 
+19:18:45.727 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:18)oggger -  ** Clicked on Register Link **
+19:18:45.913 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:23)oggger -  ** Provide all the details **
+19:18:53.800 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:38)oggger -  ** Validating expected result **
+19:18:59.074 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:43)oggger -  ************* Completed TC001_AccountRegistrationTest ************ 
+19:19:10.680 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:16)oggger -  ************* Starting TC002_LOGINTest ************ 
+19:19:10.681 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:20)oggger -  ** Clicked on login Link **
+19:19:10.789 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:26)oggger -  ** Provide all the details **

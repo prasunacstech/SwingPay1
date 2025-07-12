@@ -57,10 +57,12 @@ public class LoginPage extends BasePage{
 	}
 	
 	public void enterUsername(String loginUserVal) {
+		txtLoginUserName.clear();
 		txtLoginUserName.sendKeys(loginUserVal);
 	}
 	
 	public void enterPassword(String loginPasswordVal) {
+		txtLoginPassword.clear();
 		txtLoginPassword.sendKeys(loginPasswordVal);
 	}
 	

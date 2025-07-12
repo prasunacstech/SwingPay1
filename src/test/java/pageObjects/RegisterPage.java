@@ -66,30 +66,37 @@ public class RegisterPage extends BasePage {
 	}
 
 	public void setCompanyName(String cname) {
+		txtCompanyName.clear();
 		txtCompanyName.sendKeys(cname);
 	}
 
 	public void setFirstName(String fname) {
+		txtFirstName.clear();
 		txtFirstName.sendKeys(fname);
 	}
 
 	public void setLastName(String lname) {
+		txtLastName.clear();
 		txtLastName.sendKeys(lname);
 	}
 
 	public void setEmail(String email) {
+		txtEmail.clear();
 		txtEmail.sendKeys(email);
 	}
 
 	public void setPhone(String phone) {
+		txtPhone.clear();
 		txtPhone.sendKeys(phone);
 	}
 
 	public void setPassword(String password) {
+		txtPassword.clear();
 		txtPassword.sendKeys(password);
 	}
 
 	public void setConfirmPassword(String cpassword) {
+		txtConfirmPassword.clear();
 		txtConfirmPassword.sendKeys(cpassword);
 	}
 
