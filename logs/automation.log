@@ -1,12 +1,17 @@
-19:19:13.074 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:33)oggger -  ** Validating expected result **
-19:19:13.198 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:38)oggger -  ************* Completed TC002_LoginTest ************ 
-19:19:25.281 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:15)oggger -  ************* Starting TC001_AccountRegistrationTest ************ 
-19:19:25.283 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:18)oggger -  ** Clicked on Register Link **
-19:19:25.450 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:23)oggger -  ** Provide all the details **
-19:19:39.627 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:38)oggger -  ** Validating expected result **
-19:19:39.654 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyRegistration(TC001_AccountRegistrationTest.java:43)oggger -  ************* Completed TC001_AccountRegistrationTest ************ 
-19:19:48.446 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:16)oggger -  ************* Starting TC002_LOGINTest ************ 
-19:19:48.446 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:20)oggger -  ** Clicked on login Link **
-19:19:48.611 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:26)oggger -  ** Provide all the details **
-19:19:51.901 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:33)oggger -  ** Validating expected result **
-19:19:51.984 [main] INFO  testCases.TC002_LoginTest.ValidLoginTest(TC002_LoginTest.java:38)oggger -  ************* Completed TC002_LoginTest ************ 
+19:48:24.198 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:48:24.495 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+19:48:24.529 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:48:24.530 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+19:48:24.559 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:48:24.560 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+19:48:24.584 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:48:24.585 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+19:48:24.697 [main] INFO  testCases.TC003_LoginDataDriven.ValidLoginTest(TC003_LoginDataDriven.java:15)oggger -  ************* Starting TC002_LOGINTest ************ 
+19:48:24.778 [main] INFO  testCases.TC003_LoginDataDriven.ValidLoginTest(TC003_LoginDataDriven.java:19)oggger -  ** Clicked on login Link **
+19:48:25.999 [main] INFO  testCases.TC003_LoginDataDriven.ValidLoginTest(TC003_LoginDataDriven.java:26)oggger -  ** Provide all the details **
+19:48:35.548 [main] INFO  testCases.TC003_LoginDataDriven.ValidLoginTest(TC003_LoginDataDriven.java:33)oggger -  ** Validating expected result **
+19:48:42.577 [main] INFO  testCases.TC003_LoginDataDriven.ValidLoginTest(TC003_LoginDataDriven.java:67)oggger -  ************* Completed TC003_LoginTest ************ 
+19:48:42.736 [main] INFO  testCases.TC003_LoginDataDriven.ValidLoginTest(TC003_LoginDataDriven.java:15)oggger -  ************* Starting TC002_LOGINTest ************ 
+19:48:42.737 [main] INFO  testCases.TC003_LoginDataDriven.ValidLoginTest(TC003_LoginDataDriven.java:19)oggger -  ** Clicked on login Link **
+19:48:53.137 [main] INFO  testCases.TC003_LoginDataDriven.ValidLoginTest(TC003_LoginDataDriven.java:15)oggger -  ************* Starting TC002_LOGINTest ************ 
+19:48:53.140 [main] INFO  testCases.TC003_LoginDataDriven.ValidLoginTest(TC003_LoginDataDriven.java:19)oggger -  ** Clicked on login Link **

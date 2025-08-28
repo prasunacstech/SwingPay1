@@ -1,0 +1,29 @@
+19:44:09.459 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+19:44:09.504 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:44:09.506 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+19:44:09.537 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:44:09.539 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+19:44:10.070 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.jq.Main@3028e50e: 258 ms
+19:44:10.108 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.FailedReporter@6b63d445: 38 ms
+19:44:10.125 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.XMLReporter@c446b14: 16 ms
+19:44:10.135 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@12db3386: 10 ms
+19:44:10.167 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@198ef2ce: 32 ms
+19:44:10.168 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4cbd03e7: 0 ms
+19:47:28.243 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\ckuma\javarepos\Swingpay1\src\test\resources\master.xml"
+19:47:28.602 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\ckuma\javarepos\Swingpay1\src\test\resources\master.xml
+
+19:48:20.522 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:48:20.527 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+19:48:23.945 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:48:23.947 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+19:48:23.993 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:48:23.995 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+19:48:24.052 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:48:24.056 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+19:48:24.094 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:48:24.098 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+19:48:24.130 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:48:24.132 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+19:48:24.166 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:48:24.167 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
